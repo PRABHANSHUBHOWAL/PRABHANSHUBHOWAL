@@ -6,10 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👋 Hi, I’m @PRABHANSHUBHOWAL
-- 👀 I’m interested in ...
+- 👀 I’m interested in Android Development and Competitive Programming
 - 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Email:prabhanshubhowal@gmail.com
+- 📫 How to reach me prabhanshubhowal@gmail.com
 
 <!---
 PRABHANSHUBHOWAL/PRABHANSHUBHOWAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
