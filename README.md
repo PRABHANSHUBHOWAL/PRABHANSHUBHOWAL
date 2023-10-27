@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me prabhanshubhowal@gmail.com
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)]
 
 <!---
 PRABHANSHUBHOWAL/PRABHANSHUBHOWAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
