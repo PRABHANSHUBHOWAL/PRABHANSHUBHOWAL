@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prabhanshu Bhowal</h1>
 <h3 align="center">A fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
